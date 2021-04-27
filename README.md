@@ -24,8 +24,8 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 
 [Exercise 2](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_02.pdf)
 
-[Tutorial 2 GoogleDocs]() To be added
+[Tutorial 2 GoogleDocs (Not available yet)]() 
 
 # TRAIL EXAM
 
-[trail exam]()
+[Trail exam (Not available yet)]()
