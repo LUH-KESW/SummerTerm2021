@@ -24,7 +24,7 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 
 [Exercise 2](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_02.pdf)
 
-[Tutorial 2 GoogleDocs] (https://docs.google.com/document/d/1SIjoKsb41BTCAQGmLeh67D2HjmwCRRGxnM1BJLeDMyI/edit#heading=h.ctrxqokcng6s)
+[Tutorial 2 GoogleDocs](https://docs.google.com/document/d/1SIjoKsb41BTCAQGmLeh67D2HjmwCRRGxnM1BJLeDMyI/edit#heading=h.ctrxqokcng6s)
 
 [Exercise 3](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_03.pdf)
 
