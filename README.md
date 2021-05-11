@@ -10,7 +10,7 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 # Schedule 
 * Exercise 01 	    -- April 27, 2021
 * Exercise 02       -- May 11, 2021
-* Exercise 03       -- ???
+* Exercise 03       -- May 25, 2021
 * Exercise 04       -- ???
 * Exercise 05       -- ???
 * Exercise 06       -- ???
@@ -24,8 +24,16 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 
 [Exercise 2](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_02.pdf)
 
-Tutorial 2 GoogleDocs (Not available yet)
+Tutorial 2 GoogleDocs (https://docs.google.com/document/d/1SIjoKsb41BTCAQGmLeh67D2HjmwCRRGxnM1BJLeDMyI/edit#heading=h.ctrxqokcng6s)
+
+[Exercise 3](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_03.pdf)
+
+Tutorial 3 GoogleDocs (Not available yet)
 
 # TRAIL EXAM
 
 Trail exam (Not available yet)
+
+# OFFICIAL EXAM
+
+Initial date is September 13th
