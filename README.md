@@ -10,8 +10,8 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 # Schedule 
 * Exercise 01 	    -- April 27, 2021
 * Exercise 02       -- May 11, 2021
-* Exercise 03       -- May 25, 2021
-* Exercise 04       -- ???
+* Exercise 03       -- June 01, 2021
+* Exercise 04       -- June 15, 2021
 * Exercise 05       -- ???
 * Exercise 06       -- ???
 
