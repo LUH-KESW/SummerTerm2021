@@ -28,7 +28,11 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 
 [Exercise 3](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_03.pdf)
 
-Tutorial 3 GoogleDocs (Not available yet)
+[Tutorial 3 GoogleDocs](https://docs.google.com/document/d/1SIjoKsb41BTCAQGmLeh67D2HjmwCRRGxnM1BJLeDMyI/edit#heading=h.wl6b8gs0vdie)
+
+[Exercise 4](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_04.pdf)
+
+Tutorial 4 GoogleDocs (Not available yet)
 
 # TRAIL EXAM
 
