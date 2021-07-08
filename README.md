@@ -7,6 +7,22 @@ Time 10:45 -- 12:15 (90 mins)
 Online: [https://tib-eu.webex.com/meet/kesw-exercise-2021](https://tib-eu.webex.com/meet/kesw-exercise-2021)
 
 Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-kesw.github.io/SummerTerm2021/)
+
+> **⚠ Note: Road map for our exercises**
+> 
+> Since the official lecture period usually ends with July, we will have this month three exercises to try to catch up.
+> 
+> The upcoming exercises will be on:
+> * 13.07.2021
+> * 20.07.2021
+> * 27.07.2021
+> 
+> With this hopefully we will be done will all the material of the exercises. Following that we will have a mock exam session to go over what an exam of the KESW lecture could look like.
+>
+> The dates here are subject to change depending on the speed on which we go though the exercises (more preparation for the exercises from your side should speed things along ;) ).
+>
+> I hope to see you all there next week.
+
 # Schedule 
 * Exercise 01 	    -- April 27, 2021
 * Exercise 02       -- May 11, 2021
@@ -14,7 +30,8 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-k
 * Exercise 04       -- June 15, 2021
 * Exercise 05       -- June 29, 2021
 * Exercise 06       -- July 13, 2021
-* Exercise 07       -- ???
+* Exercise 07       -- July 20, 2021
+* Exercise 08       -- ???
 
 
 # Exercises
