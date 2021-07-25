@@ -48,12 +48,12 @@ Materials on GitHub: [https://luh-kesw.github.io/SummerTerm2021/](https://luh-ke
 
 [Exercise 7](https://luh-kesw.github.io/SummerTerm2021/exercises/exercise_07.pdf)
 
-Tutorial 7 GoogleDocs (Not available yet)
+[Tutorial 7 GoogleDocs](https://docs.google.com/document/d/1SIjoKsb41BTCAQGmLeh67D2HjmwCRRGxnM1BJLeDMyI/edit#heading=h.iev32i7x0kqh)
 
 # TRAIL EXAM
 
-Trail exam (Not available yet)
+[Trail exam](https://luh-kesw.github.io/SummerTerm2021/exercises/mock_exam.pdf)
 
 # OFFICIAL EXAM
 
-Initial date is September 13th
+Date is September 13th (In person)
